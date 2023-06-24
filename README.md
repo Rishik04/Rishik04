@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I'm [Your Name], a [Role/Title] who is passionate about [Interests]. Welcome to my GitHub profile!
+I'm Rishik Charan Pahari, a Full Stack Developer who is passionate about coding. Welcome to my GitHub profile!
 
 ## About Me
 
