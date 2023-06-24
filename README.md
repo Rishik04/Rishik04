@@ -38,7 +38,10 @@ Here are some of my recent GitHub projects and contributions:
 
 ## 📊 Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rishik04&show_icons=true&theme=radical)](https://github.com/rishik04)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rishik04&hide=stars&show_icons=true&theme=radical&hide_rank=true)](https://github.com/rishik04)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishik04&hide=html&layout=compact)](https://github.com/rishik04)
+
 
 <br/>
 
