@@ -13,15 +13,15 @@ I'm Rishik Charan Pahari, a Full Stack Developer who is passionate about coding.
 
 You can connect with me on the following social media platforms:
 
-- [LinkedIn]((https://www.linkedin.com/in/rishik-charan-pahari-9b133b1a1/))
+- [LinkedIn](https://www.linkedin.com/in/rishik-charan-pahari-9b133b1a1/)
 - [Instagram](https://www.instagram.com/rishikcharan)
 
 ## Coding Platforms
 
 Find me on coding platforms like:
 
-- [HackerRank]((https://www.hackerrank.com/rishikcharan04))
-- [LeetCode]((https://leetcode.com/rishikcharan04/))
+- [HackerRank](https://www.hackerrank.com/rishikcharan04)
+- [LeetCode](https://leetcode.com/rishikcharan04/)
 
 ## GitHub Activity
 
