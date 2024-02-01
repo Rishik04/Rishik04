@@ -52,7 +52,7 @@ Here are some of my recent GitHub projects and contributions:
 [<img align="left" alt="JavaScript" width="35px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />](https://www.javascript.com/)
 [<img align="left" alt="React" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />](https://reactjs.org/)
 [<img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](https://www.mongodb.com/docs/manual/reference/program/mongod/)
-[<img align="left" alt="spring-boot" width="35px" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />](https://spring.io/projects/spring-boot)
+[<img align="left" alt="spring-boot" width="35px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />](https://spring.io/projects/spring-boot)
 <br/>
 <br/>
 
