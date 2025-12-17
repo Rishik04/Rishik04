@@ -1,59 +1,90 @@
-# Hi there 👋,
+<h1 align="center">Hi 👋, I'm Rishik Charan Pahari</h1>
+<h3 align="center">Full Stack Developer | Java & MERN Enthusiast</h3>
 
-I'm Rishik Charan Pahari, a Full Stack Developer who is passionate about coding. Welcome to my GitHub profile!
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishik-charan-pahari-9b133b1a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rishikcharan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:rishikcharan04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## About Me
+---
 
-- 🔭 I’m currently working on Java FullStack.
-- 🌱 I’m currently learning Springboot
-- 💬 Ask me about MERN Stack
-- 😄 Pronouns: He/Him
+## 🚀 About Me
 
-## 📫 Connect with Me
+- 💻 Full Stack Developer with hands-on experience in **MERN & Java Full Stack**
+- 🌱 Currently learning **Spring Boot & Backend Architecture**
+- 🧠 Strong interest in **scalable systems, clean code & performance**
+- 💬 Ask me about **React, Node.js, MongoDB, Java, REST APIs**
+- 😄 Pronouns: **He / Him**
 
-You can connect with me on the following social media platforms:
+---
 
-[<img align="left" alt="LinkedIn" width="35px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/rishik-charan-pahari-9b133b1a1/)
-[<img align="left" alt="Instagram" width="35px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://www.instagram.com/rishikcharan)
-<br/>
-<br/>
+## 🛠️ Tech Stack
 
-## 💻 Coding Platforms
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+</p>
 
-Find me on coding platforms like:
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
 
-[<img align="left" alt="HackerRank" width="35px" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" />](https://www.hackerrank.com/rishikcharan04)
-[<img align="left" alt="LeetCode" width="35px" src="https://avatars.githubusercontent.com/u/16155416?s=200&v=4" />](https://leetcode.com/rishikcharan04/)
-[<img align="left" alt="GitHub" width="35px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />](https://github.com/rishik04)
-<br/>
-<br/>
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+</p>
 
-## 🔭 GitHub Projects
+---
 
-Here are some of my recent GitHub projects and contributions:
+## 🔭 Featured Projects
 
-- [Invoice Management](https://github.com/Rishik04/invoice-generation)
-- [Zeba Enterprises](https://github.com/Rishik04/zeeba-enterprises)
-- [Food Delivery](https://github.com/Rishik04/ecommerce)
+- 🧾 **Invoice Management System**  
+  👉 https://github.com/Rishik04/invoice-generation
 
-## 📊 Github Stats
+- 🏗️ **Zeba Enterprises (Construction Company Platform)**  
+  👉 https://github.com/Rishik04/zeeba-enterprises
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rishik04&hide=stars&show_icons=true&theme=radical&hide_rank=true)](https://github.com/rishik04)
+- 🍔 **Food Delivery / E-commerce App**  
+  👉 https://github.com/Rishik04/ecommerce
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishik04&hide=html&layout=compact)](https://github.com/rishik04)
+---
 
+## 💻 Coding Profiles
 
-<br/>
+<p>
+  <a href="https://leetcode.com/rishikcharan04/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/rishikcharan04" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
-## 🛠️ Tools and Technologies
+---
 
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />](https://code.visualstudio.com/)
-[<img align="left" alt="Nodejs" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />](https://nodejs.org/en)
-[<img align="left" alt="JavaScript" width="35px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />](https://www.javascript.com/)
-[<img align="left" alt="React" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />](https://reactjs.org/)
-[<img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](https://www.mongodb.com/docs/manual/reference/program/mongod/)
-[<img align="left" alt="spring-boot" width="35px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />](https://spring.io/projects/spring-boot)
-<br/>
-<br/>
+## 📊 GitHub Stats
 
-Thanks for visiting my profile. Looking forward to connecting with you!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishik04&show_icons=true&theme=radical&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishik04&layout=compact&theme=radical" height="165" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/rishik-charan-pahari-9b133b1a1/
+- 📸 Instagram: https://www.instagram.com/rishikcharan
+- 💼 Open to **SDE / Full Stack / Java Backend roles**
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
