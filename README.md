@@ -32,9 +32,9 @@ Find me on coding platforms like:
 
 Here are some of my recent GitHub projects and contributions:
 
+- [Invoice Management](https://github.com/Rishik04/invoice-generation)
+- [Zeba Enterprises](https://github.com/Rishik04/zeeba-enterprises)
 - [Food Delivery](https://github.com/Rishik04/ecommerce)
-- [Student Management System](https://github.com/Rishik04/marks-management-system)
-- [Social Media](https://github.com/Rishik04/social)
 
 ## 📊 Github Stats
 
